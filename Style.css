@@ -1,0 +1,20 @@
+*{
+    padding: 5px 5px 0px 5px  ;
+    font-family: serif;
+}
+.frnt {
+    top: 22.0rem;
+    height: 300px;
+}
+.card-body{
+    box-shadow: rgb(99, 96, 96) 5px 5px 5px;
+}
+.navbarPosition{
+    position:fixed;
+}
+.btn-sm{
+     width: 100px;
+}
+.top-padding{
+    padding-top: 150px;
+}
